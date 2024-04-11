@@ -19,3 +19,4 @@ The dataset used to obtain the samples is available online and can be accessed b
 
 Dataset used in the project: https://www.researchgate.net/publication/248380891_captcha_dataset
 
+The zip file "archive.zip" contains the captcha images used in the project.
