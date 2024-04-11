@@ -16,5 +16,6 @@ It's important to keep in mind that the performance of any CAPTCHA-solving model
 However, it's crucial to remember that any attempts to bypass security measures without proper authorization are not only illegal but also unethical. Therefore, it's important to use any CAPTCHA-solving model for educational and research purposes only. Any misuse of such tools can have serious consequences, including legal repercussions and damage to one's reputation.
 
 The dataset used to obtain the samples is available online and can be accessed by anyone. We have the flexibility to use any dataset of our choice to obtain the required samples for our analysis.
+
 Dataset used in the project: https://www.researchgate.net/publication/248380891_captcha_dataset
 
